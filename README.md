@@ -1,1 +1,1 @@
-# IDS701_UnifyngDataScience
+# IDS701_UnifyingDataScience
