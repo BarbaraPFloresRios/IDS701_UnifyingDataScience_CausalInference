@@ -12,3 +12,6 @@ The course was taught by `Nick Eubank`, and you can explore more about the cours
 3. [ExerciseInterpretableModelsGAM](https://github.com/BarbaraPFloresRios/IDS701_SolvingRealProblemsWithDataScience/blob/main/20240305_ExerciseInterpretableModelsGAM/exercise_interpretable.ipynb)
 4. [ExerciseResumeExperiment](https://github.com/BarbaraPFloresRios/IDS701_SolvingRealProblemsWithDataScience/blob/main/20240305_ExerciseResumeExperiment/exercise_resume_experiment.ipynb)
 5. [ExerciseABtesting](https://github.com/BarbaraPFloresRios/IDS701_SolvingRealProblemsWithDataScience/blob/main/20240319_ExerciseABTesting/exercise_abtesting.ipynb)
+6. [ExercisePowerCalculations](https://github.com/BarbaraPFloresRios/IDS701_SolvingRealProblemsWithDataScience/blob/main/20240326_ExercisePowerCalculations/exercise_power_calculations.ipynb)
+7. [ExercisePowerCalculations](https://github.com/BarbaraPFloresRios/IDS701_SolvingRealProblemsWithDataScience/blob/main/20240326_ExercisePowerCalculations/exercise_power_calculations.ipynb)
+8. [ExerciseRegressionsIncomeineq](https://github.com/BarbaraPFloresRios/IDS701_SolvingRealProblemsWithDataScience/blob/main/20240409_ExerciseRegressionsIncomeineq/exercise_regressions_incomeineq.ipynb)
