@@ -8,3 +8,5 @@ The course was taught by `Nick Eubank`, and you can explore more about the cours
 
  
 1.  [ExerciseExploratory](https://github.com/BarbaraPFloresRios/IDS701_UnifyingDataScience_CausalInference/blob/main/20240201_ExerciseExploratory/Exercise_exploratory.ipynb)
+2. [ExercisePassivePrediction](https://github.com/BarbaraPFloresRios/IDS701_UnifyingDataScience_CausalInference/blob/main/20240227_ExercisePassivePrediction/Exercise_passive_prediction.ipynb)
+3. [ExerciseInterpretableModelsGAM](https://github.com/BarbaraPFloresRios/IDS701_UnifyingDataScience_CausalInference/blob/main/20240305_ExerciseInterpretableModelsGAM/exercise_interpretable.ipynb)
