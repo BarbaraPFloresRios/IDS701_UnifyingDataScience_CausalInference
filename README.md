@@ -7,6 +7,8 @@ In this repository, you’ll find tasks and projects where we explored various d
 The course was taught by `Nick Eubank`, and you can explore more about the course and related materials at the following link: [Solving Real Problems with Data Science](https://ds4humans.com/landing_page.html).
 
  
-1.  [ExerciseExploratory](https://github.com/BarbaraPFloresRios/IDS701_UnifyingDataScience_CausalInference/blob/main/20240201_ExerciseExploratory/Exercise_exploratory.ipynb)
-2. [ExercisePassivePrediction](https://github.com/BarbaraPFloresRios/IDS701_UnifyingDataScience_CausalInference/blob/main/20240227_ExercisePassivePrediction/Exercise_passive_prediction.ipynb)
-3. [ExerciseInterpretableModelsGAM](https://github.com/BarbaraPFloresRios/IDS701_UnifyingDataScience_CausalInference/blob/main/20240305_ExerciseInterpretableModelsGAM/exercise_interpretable.ipynb)
+1.  [ExerciseExploratory](https://github.com/BarbaraPFloresRios/IDS701_SolvingRealProblemsWithDataScience/blob/main/20240201_ExerciseExploratory/Exercise_exploratory.ipynb)
+2. [ExercisePassivePrediction](https://github.com/BarbaraPFloresRios/IDS701_SolvingRealProblemsWithDataScience/blob/main/20240227_ExercisePassivePrediction/Exercise_passive_prediction.ipynb)
+3. [ExerciseInterpretableModelsGAM](https://github.com/BarbaraPFloresRios/IDS701_SolvingRealProblemsWithDataScience/blob/main/20240305_ExerciseInterpretableModelsGAM/exercise_interpretable.ipynb)
+4. [ExerciseResumeExperiment](https://github.com/BarbaraPFloresRios/IDS701_SolvingRealProblemsWithDataScience/blob/main/20240305_ExerciseResumeExperiment/exercise_resume_experiment.ipynb)
+5. [ExerciseABtesting](https://github.com/BarbaraPFloresRios/IDS701_SolvingRealProblemsWithDataScience/blob/main/20240319_ExerciseABTesting/exercise_abtesting.ipynb)
